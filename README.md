@@ -1,0 +1,4 @@
+musings
+=======
+
+A digital diary.
